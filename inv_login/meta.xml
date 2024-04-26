@@ -1,0 +1,5 @@
+<meta>
+	<info author="mono" description="Login" version="1" type="script" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>

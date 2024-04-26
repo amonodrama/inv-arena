@@ -1,0 +1,5 @@
+<meta>
+    <info version="1.0" author="mono" description="toplist" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+</meta>

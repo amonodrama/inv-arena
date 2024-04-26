@@ -1,0 +1,5 @@
+<meta>
+	<script src="scoreboard_client.lua" type="client" cache="false"/>
+	<script src="scoreboard_server.lua" type="server"/>
+	<file src="fx/txReplace.fx"/>
+</meta>
