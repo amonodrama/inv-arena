@@ -1,0 +1,14 @@
+<meta>
+	<info author="mono" version="1.5" type="gamemode" />
+	<script src="utils.lua" type="client" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	<script src="ranks_s.lua" type="server" />
+	<script src="ranks_c.lua" type="client" cache="false" />
+	<script src="maps.lua" type="server" />
+	
+	<export function="getPlayerRank" type="client"/> 
+	<export function="getPlayerRank" type="server"/> 
+	<export function="getPlayerKD" type="client"/> 
+	<export function="getPlayerKD" type="server"/> 
+</meta>

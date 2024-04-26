@@ -1,0 +1,7 @@
+<meta>
+	<script src="client.lua" type="client" cache="false" />
+ 	<file src="img/icons.png" />
+ 	<file src="img/main.png" />
+ 	<file src="img/heart.png" />
+ 	<file src="img/armor.png" />
+</meta>

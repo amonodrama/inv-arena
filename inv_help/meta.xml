@@ -1,0 +1,8 @@
+<meta>
+	<info author = "mono" name='help' version = "0.1" />
+	<script src='client.lua' type='client' cache='false' />
+
+	<file src='files/bg.png' />
+	<file src='files/icon_1.png' />
+	<file src='files/scroll.png' />
+</meta>

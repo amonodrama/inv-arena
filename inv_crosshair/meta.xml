@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server"/>
+    <file src="files/background.png" cache="false"/>
+    <file src="files/texreplace.fx" />
+
+	<file src="crosshairs/1.png"/>
+	<file src="crosshairs/2.png"/>
+    <file src="crosshairs/3.png"/>
+    <file src="crosshairs/4.png"/>
+    
+</meta>
